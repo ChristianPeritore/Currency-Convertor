@@ -58,5 +58,5 @@ npm run dev
 - 4️⃣While fetching, the UI shows "waiting..." for better user experience.
 ## 👨‍💻 Author
 
-Developed by Your Name
+Developed by """Your Name""" ---> ERROR
 Simegnew Aregahegn
